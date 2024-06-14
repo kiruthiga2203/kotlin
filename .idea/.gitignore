@@ -1,0 +1,26 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/kotlin.iml
+gradle/*
+
+
+# Build directory
+build/
+
+# Dependency caches
+.gradle/
+
+# Project-specific caches
+.classpath
+.project
+.settings/
+bin/
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
